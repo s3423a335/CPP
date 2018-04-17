@@ -61,7 +61,20 @@ int main()
 
 # cpp_work2-3:(2018/04/17)
 ```
-
+#include<iostream>
+using namespace std;
+int main()
+{
+	int i;
+	char array[12]={'H','E','L','L','O',' ','W','O','R','L','D'};
+	for(i=0;i<12;i++)
+		cout<<array[i];
+	cout << endl;
+    return 0;
+}
+註解:字元不能超過12個
+```
+![image](https://github.com/s3423a335/cpp/blob/master/04.PNG)
 
 
 
