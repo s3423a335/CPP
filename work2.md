@@ -55,5 +55,13 @@ int main()
 	printf("%s\n",array);
     return 0;
 }
+註解:沒按照順序和超過12個字元跑不出來
 ```
 ![image](https://github.com/s3423a335/cpp/blob/master/03.PNG)
+
+# cpp_work2-3:(2018/04/17)
+```
+
+
+
+
