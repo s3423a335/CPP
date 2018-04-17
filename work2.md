@@ -56,4 +56,4 @@ int main()
     return 0;
 }
 ```
-
+![image](https://github.com/s3423a335/cpp/blob/master/03.PNG)
