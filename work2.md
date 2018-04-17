@@ -72,7 +72,7 @@ int main()
 	cout << endl;
     return 0;
 }
-註解:字元不能超過12個
+註解:字元不能超過12個，程式會發生錯誤
 ```
 ![image](https://github.com/s3423a335/cpp/blob/master/04.PNG)
 
