@@ -1,3 +1,4 @@
+```
 #include <iostream>
 using namespace std;
 
@@ -30,5 +31,5 @@ int main()
   system("pause"); 
   return 0;
 }
-
-
+```
+![image](https://github.com/s3423a335/cpp/blob/master/01.PNG)
