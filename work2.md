@@ -55,7 +55,7 @@ int main()
 	printf("%s\n",array);
     return 0;
 }
-## 註解:沒按照順序和超過12個字元跑不出來
+# # 註解:沒按照順序和超過12個字元跑不出來
 ```
 ![image](https://github.com/s3423a335/cpp/blob/master/03.PNG)
 
@@ -72,7 +72,7 @@ int main()
 	cout << endl;
     return 0;
 }
-## 註解:字元不能超過12個，程式會發生錯誤
+# # 註解:字元不能超過12個，程式會發生錯誤
 ```
 ![image](https://github.com/s3423a335/cpp/blob/master/04.PNG)
 
