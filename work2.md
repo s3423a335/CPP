@@ -1,4 +1,4 @@
-# cpp_work2:(2018/04/17)
+# cpp_work2-1:(2018/04/17)
 ```
 #include <iostream>
 #include <iomanip>
@@ -39,3 +39,21 @@ int main()
 
 ```
 ![image](https://github.com/s3423a335/cpp/blob/master/02.PNG)
+
+# cpp_work2-2:(2018/04/17)
+```
+#include<iostream>
+using namespace std;
+int main()
+{
+	int i;
+	char array[12];
+	array[0]='a';
+	array[1]='b';
+	array[2]='b';
+   //	array[12]='c';
+	printf("%s\n",array);
+    return 0;
+}
+```
+
