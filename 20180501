@@ -1,3 +1,6 @@
+# cpp_work1:(2018/05/01)
+```
+
 #include<iostream>
 using namespace std;
 int main()
@@ -9,3 +12,5 @@ int main()
 	printf("%c,%d\n%c,%d",c1,c1,c2,c2);
 	return 0;
 }
+
+![image](https://github.com/s3423a335/cpp/blob/master/01.PNG)
